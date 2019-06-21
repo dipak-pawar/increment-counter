@@ -1,1 +1,1 @@
-# rate-counter
+# increment-counter
